@@ -161,7 +161,7 @@ a:focus
     {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background: #6bb730;
+        background: #000;
     }
 }
 
@@ -430,10 +430,5 @@ body
     background-attachment: cover;
     background-color: #6bb730;
     padding-left: 10px;
-}
-
-.thumbnail
-{
-    background-color: #e7e7e7;
 }
 
